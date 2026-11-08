@@ -1,0 +1,16 @@
+student,study_hours,attendance,previous_score,exam_score
+Student 1,1,45,40,42
+Student 2,2,50,45,45
+Student 3,2,60,48,48
+Student 4,3,55,50,52
+Student 5,3,70,55,58
+Student 6,4,65,58,60
+Student 7,4,80,62,65
+Student 8,5,70,65,68
+Student 9,5,85,68,72
+Student 10,6,75,70,75
+Student 11,6,90,75,78
+Student 12,7,85,78,82
+Student 13,8,92,85,88
+Student 14,9,95,90,92
+Student 15,2,40,42,43
